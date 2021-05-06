@@ -1,5 +1,5 @@
 # ModernJS_SSMIC
 A series of exercises from Advance JS course @SSMIC.
 
-* To do list
-* Loan calculator
+* 0 To do list
+* 1 Loan calculator
