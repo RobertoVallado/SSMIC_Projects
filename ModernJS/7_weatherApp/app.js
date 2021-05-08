@@ -39,7 +39,7 @@ class Weather {
 class Storage {
   constructor() {
     this.city;
-    this.defaultCity = 'Toronto';
+    this.defaultCity = 'Merida';
   }
 
   getLocationData() {
