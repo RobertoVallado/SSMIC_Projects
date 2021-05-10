@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tracalorie app without bootstrap nor jQuery</title>
+</head>
+
+<body>
+    <nav>
+        <div class="container">
+            <h1>Tracalorie</h1>
+            <ul class="right">
+                <li><a href="#" class="clear-btn">Clear All</a></li>
+            </ul>
+        </div>
+    </nav>
+    <br>
+
+    <!-- itemList: '#item-list', <----------
+  listItems: '#item-list li', <-------------
+  addBtn: '.add-btn', <---------------------
+  updateBtn: '.update-btn',<----------------
+  deleteBtn: '.delete-btn',<----------------
+  backBtn: '.back-btn',<--------------------
+  clearBtn: '.clear-btn', <-----------------
+  itemNameInput: '#item-name', <------------
+  itemCaloriesInput: '#item-calories', <----
+  totalCalories: '.total-calories' <--------  -->
+
+    <!-- Form Card -->
+    <div class="container">
+        <div>
+            <span>Add Meal / Food Item</span>
+            <form>
+                <div>
+                    <div>
+                        <input type="text" placeholder="Add Item" id="item-name">
+                        <label for="item-name">Meal</label>
+                    </div>
+                    <div class="input-field col s6">
+                        <input type="number" placeholder="Add Calories" id="item-calories">
+                        <label for="item-calories">Calories</label>
+                    </div>
+                    <button class="add-btn"><i>+</i> Add Meal</button>
+                    <button class="update-btn"><i></i> Update Meal</button>
+                    <button class="delete-btn"><i class="fa-remove">x</i> Delete Meal</button>
+                    <button class="back-btn"><i></i> Back</button>
+                </div>
+            </form>
+        </div>
+
+        <!-- Calorie Count -->
+        <h3>Total Calories: <span class="total-calories">0</span></h3>
+
+        <!-- Item List -->
+        <ul id="item-list">
+            <!-- <li>li elements</li> -->
+        </ul>
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>
