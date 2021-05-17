@@ -19,4 +19,5 @@ A series of exercises in C# from tutorial @SSMIC.
 * 1 use of SQL using c#
 * 2 Machine learning simple sample
 * 3 Web application using ASP .NET
+* 4 Cryptography basic samples
 

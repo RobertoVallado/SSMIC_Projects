@@ -1,0 +1,13 @@
+C:\Users\rvallado\Documents\Roberto\SSMIC Projects\C_Sharp\CryptographySamples\CryptographySamples\bin\Debug\netcoreapp3.1\CryptographySamples.exe
+C:\Users\rvallado\Documents\Roberto\SSMIC Projects\C_Sharp\CryptographySamples\CryptographySamples\bin\Debug\netcoreapp3.1\CryptographySamples.deps.json
+C:\Users\rvallado\Documents\Roberto\SSMIC Projects\C_Sharp\CryptographySamples\CryptographySamples\bin\Debug\netcoreapp3.1\CryptographySamples.runtimeconfig.json
+C:\Users\rvallado\Documents\Roberto\SSMIC Projects\C_Sharp\CryptographySamples\CryptographySamples\bin\Debug\netcoreapp3.1\CryptographySamples.runtimeconfig.dev.json
+C:\Users\rvallado\Documents\Roberto\SSMIC Projects\C_Sharp\CryptographySamples\CryptographySamples\bin\Debug\netcoreapp3.1\CryptographySamples.dll
+C:\Users\rvallado\Documents\Roberto\SSMIC Projects\C_Sharp\CryptographySamples\CryptographySamples\bin\Debug\netcoreapp3.1\CryptographySamples.pdb
+C:\Users\rvallado\Documents\Roberto\SSMIC Projects\C_Sharp\CryptographySamples\CryptographySamples\obj\Debug\netcoreapp3.1\CryptographySamples.csprojAssemblyReference.cache
+C:\Users\rvallado\Documents\Roberto\SSMIC Projects\C_Sharp\CryptographySamples\CryptographySamples\obj\Debug\netcoreapp3.1\CryptographySamples.AssemblyInfoInputs.cache
+C:\Users\rvallado\Documents\Roberto\SSMIC Projects\C_Sharp\CryptographySamples\CryptographySamples\obj\Debug\netcoreapp3.1\CryptographySamples.AssemblyInfo.cs
+C:\Users\rvallado\Documents\Roberto\SSMIC Projects\C_Sharp\CryptographySamples\CryptographySamples\obj\Debug\netcoreapp3.1\CryptographySamples.csproj.CoreCompileInputs.cache
+C:\Users\rvallado\Documents\Roberto\SSMIC Projects\C_Sharp\CryptographySamples\CryptographySamples\obj\Debug\netcoreapp3.1\CryptographySamples.dll
+C:\Users\rvallado\Documents\Roberto\SSMIC Projects\C_Sharp\CryptographySamples\CryptographySamples\obj\Debug\netcoreapp3.1\CryptographySamples.pdb
+C:\Users\rvallado\Documents\Roberto\SSMIC Projects\C_Sharp\CryptographySamples\CryptographySamples\obj\Debug\netcoreapp3.1\CryptographySamples.genruntimeconfig.cache
